@@ -15,9 +15,7 @@ Hi, I'm Arthur Balboa, a passionate self-taught Front-End web developer.
 <br />
 <br />
 
+###Stats
+
 ![balbboa's github stats](https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=onedark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&theme=onedark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/balbboa/balbboa.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=balbboa&repo=balbboa.github.io&theme=material-palenight" />
-</a>
