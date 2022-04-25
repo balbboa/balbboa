@@ -1,4 +1,6 @@
-## Hi, i'm Arthur Balboa, a Fullstack developer.
+## Hey, i'm Arthur Balboa.
+
+I'm a Front-End Engineer from Brazil working as a freelancer.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
