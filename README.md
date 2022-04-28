@@ -1,6 +1,8 @@
-## Hey, i'm Arthur Balboa.
+<img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/software-developer.png">
 
-I'm a Front-End Engineer from Brazil working as a freelancer.
+### Hello world, I'm Arthur :sunflower:
+---
+I'm a Full-Stack | Software Developer :robot:.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,3 +24,5 @@ I'm a Front-End Engineer from Brazil working as a freelancer.
 <div align="center"> 
   <a href="https://www.linkedin.com/in/balbboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+Take a look at my [personal page](https://balbboa.github.io)
