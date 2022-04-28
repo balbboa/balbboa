@@ -2,10 +2,9 @@
 
 ### Hello world, I'm Arthur :sunflower:
 ---
-I'm a Full-Stack | Software Developer :robot:.
+I'm a Full-Stack | Software Developer :robot:. | Take a look at my [personal page](https://balbboa.github.io)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
@@ -19,10 +18,9 @@ I'm a Full-Stack | Software Developer :robot:.
   <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
   
-  ##
+---
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/balbboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-Take a look at my [personal page](https://balbboa.github.io)
