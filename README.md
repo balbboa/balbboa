@@ -1,4 +1,4 @@
-<img align="right" width="600" height="400" src="https://github.com/balbboa/balbboa/blob/main/computer.png">
+<img align="right" width="400" height="300" src="https://github.com/balbboa/balbboa/blob/main/computer.png">
 
 ### Hello world, I'm Arthur :sunflower:
 ---
