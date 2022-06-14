@@ -5,7 +5,7 @@
 I'm a Front-end | Software Developer :robot:. | Take a look at my [personal page](https://balbboa.github.io)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&layout=compact&langs_count=8&theme=shades-of-purple&count_private=true"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
