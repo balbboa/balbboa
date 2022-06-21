@@ -2,7 +2,7 @@
 
 ### Hello world, I'm Arthur :sunflower:
 ---
-I'm a Front-end | Software Developer :robot:. | Take a look at my [personal page](https://balbboa.github.io)
+I'm a Front-end | Software Developer :robot:. | Take a look at my [personal page](https://balbboa.vercel.app)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&layout=compact&langs_count=6&theme=shades-of-purple&count_private=true"/>
