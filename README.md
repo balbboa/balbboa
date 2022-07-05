@@ -1,8 +1,8 @@
 <img align="right" width="300" height="300" src="https://camo.githubusercontent.com/b088c69b52a1ef33be2c3af15fe5fbe14c34a871f17d03cbda5aa77927e05745/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323639342f323639343939372e706e67">
 
-### Hello world, I'm Arthur :sunflower:
+### Hello, I'm Arthur :robot:
 
-I'm a Front-end | Software Developer :robot:. | Take a look at my [personal page](https://balbboa.vercel.app)
+A freelance and a full-stack developer based in Brazil | Take a look at my [personal page](https://balbboa.vercel.app)
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&layout=compact&langs_count=6&theme=shades-of-purple&count_private=true"/>
