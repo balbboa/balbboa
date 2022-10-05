@@ -5,7 +5,7 @@
 A freelance and a full-stack developer based in Brazil | Take a look at my [personal page](https://balbboa.vercel.app)
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=nightowl"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
