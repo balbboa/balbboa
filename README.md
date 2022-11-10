@@ -1,9 +1,9 @@
 # Welcome to my profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbboa)
-
 - Full-Stack Developer
 - Linux | Git Enthusiast
+- Take a look at my [personal page](https://balbboa.vercel.app)
 
 ## Experience
  
