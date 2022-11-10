@@ -1,26 +1,21 @@
-<img align="right" width="300" height="300" src="https://camo.githubusercontent.com/b088c69b52a1ef33be2c3af15fe5fbe14c34a871f17d03cbda5aa77927e05745/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323639342f323639343939372e706e67">
+# Welcome to my profile
 
-### Hello, I'm Arthur :robot:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balbboa)
 
-A freelance and a full-stack developer based in Brazil | Take a look at my [personal page](https://balbboa.vercel.app)
+- Full-Stack Developer
+- Linux | Git Enthusiast
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balbboa&show_icons=true&theme=nightowl"/>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-  
----
+## Experience
  
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/balbboa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+- 5+ yoe (years of experience) with JavaScript for both backend and frontend, including NodeJS, ExpressJS, ReactJS, Angular, NextJS and Prisma
+- 5+ yoe with frontend developing, including HTML5, CSS3, Bootstrap, TailwindCSS, Styled-components and SASS
+- 2+ yoe with relational Database management using MySQL and PostgreSQL
+- 1+ yoe with Flutter for app development 
+- 1~ yoe with React Native for app development 
+- 1~ yoe with deploying techs, and queue communication, including NGINX, Heroku, Vercel and Docker
 
+---
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=balbboa&count_private=true&show_icons=true&theme=nightowl)](https://github.com/balbboa/)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&theme=nightowl)](https://github.com/balbboa/)
