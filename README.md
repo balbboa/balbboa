@@ -17,5 +17,6 @@
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=balbboa&count_private=true&show_icons=true&theme=nightowl)](https://github.com/balbboa/)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balbboa&theme=nightowl)](https://github.com/balbboa/)
+[![Stats](https://github-readme-stats-balbboa.vercel.app/api?username=balbboa&count_private=true&show_icons=true&theme=nightowl)](https://github.com/balbboa/)
+
+[![Languages](https://github-readme-stats-balbboa.vercel.app/api/top-langs/?username=balbboa&theme=nightowl&layout=compact)](https://github.com/balbboa/)
