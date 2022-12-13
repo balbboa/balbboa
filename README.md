@@ -14,10 +14,10 @@ Hi there! I am a software developer with experience in languages like Java and P
 
 ## Some of my projects
 
-- :briefcase: **RotaWeb**: a task management app built with Next.js and Node.js
+- :cop: **RotaWeb**: a task management app built with Next.js and Node.js
 - :briefcase: **QuarkRH**: Front-End to a task management app written in JavaScript
-- :briefcase: **Sentinela**: a task management app built with Next.js and Node.js
-- :briefcase: **OpEleicoes**: a task management app built with React and Node.js
+- :eyes: **Sentinela**: a task management app built with Next.js and Node.js
+- :speech_balloon: **OpEleicoes**: a task management app built with React and Node.js
 - :vibration_mode: **PJe 2x Mobile**: a juridical processes management app built with Flutter
 
 ## Contact
