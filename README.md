@@ -7,7 +7,7 @@ Hi there! I am a software developer with experience in languages like Java and P
 ## Skills
 
 - :coffee: Programming languages: TypeScript, Python, C++, C, JavaScript, Dart
-- :memo: Frameworks/Libraries: React, Angular, Flutter, React Native
+- :memo: Frameworks/Libraries: React, Angular, Flutter, React Native, Nest.js
 - :floppy_disk: Databases: MySQL, MongoDB, PostgreSQL
 - :computer: Operating systems: Linux and Windows
 - :wrench: Tools: Git, Jira, Trello
